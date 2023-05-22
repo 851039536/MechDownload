@@ -2,7 +2,7 @@ using GeneralUpDownload;
 
 namespace UpDownload_test;
 
-public class DownloadTest
+public class UpDownloadTest
 {
     [Fact]
     public void DownloadFileTest()

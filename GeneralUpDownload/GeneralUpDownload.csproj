@@ -4,6 +4,9 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>上传下载库</Title>
+        <Authors>kai.ouyang</Authors>
+        <Description>封装HTTP请求zip上传下载</Description>
     </PropertyGroup>
 
     <ItemGroup>

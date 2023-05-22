@@ -1,0 +1,12 @@
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\bin\Debug\net7.0\GeneralUpDownload-NET7.deps.json
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\bin\Debug\net7.0\GeneralUpDownload-NET7.dll
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\bin\Debug\net7.0\GeneralUpDownload-NET7.pdb
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.csproj.AssemblyReference.cache
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.GeneratedMSBuildEditorConfig.editorconfig
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.AssemblyInfoInputs.cache
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.AssemblyInfo.cs
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.csproj.CoreCompileInputs.cache
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.dll
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\refint\GeneralUpDownload-NET7.dll
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\GeneralUpDownload-NET7.pdb
+D:\sw\class_library\general-up-download\GeneralUpDownload-NET7\obj\Debug\net7.0\ref\GeneralUpDownload-NET7.dll

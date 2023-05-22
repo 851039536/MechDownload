@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0GQprQ9h0OZfdBotb43WQZrsdiQvvUKeQHucksD5M1uBThdUGOU5NQ6CMolzUvVn3t+JPlXjSmmHjc9pmVNZQ==",
+  "success": true,
+  "projectFilePath": "D:\\sw\\class_library\\GeneralUpDownload\\GeneralUpDownload\\GeneralUpDownload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ch190006\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
+    "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

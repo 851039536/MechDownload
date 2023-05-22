@@ -1,0 +1,12 @@
+D:\sw\class_library\GeneralDownload\GeneralDownload\bin\Debug\net7.0\GeneralDownload.deps.json
+D:\sw\class_library\GeneralDownload\GeneralDownload\bin\Debug\net7.0\GeneralDownload.dll
+D:\sw\class_library\GeneralDownload\GeneralDownload\bin\Debug\net7.0\GeneralDownload.pdb
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.csproj.AssemblyReference.cache
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.GeneratedMSBuildEditorConfig.editorconfig
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.AssemblyInfoInputs.cache
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.AssemblyInfo.cs
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.csproj.CoreCompileInputs.cache
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.dll
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\refint\GeneralDownload.dll
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\GeneralDownload.pdb
+D:\sw\class_library\GeneralDownload\GeneralDownload\obj\Debug\net7.0\ref\GeneralDownload.dll

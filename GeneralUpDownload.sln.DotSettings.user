@@ -1,15 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4e4228e7_002Db1fe_002D43f9_002D89c8_002D960e009c2fe8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DownloadFileTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::29572EC0-DC87-4F47-B965-2BD55850FD2E::net7.0::UpDownload_test.DownloadTest.DownloadFileTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::29572EC0-DC87-4F47-B965-2BD55850FD2E::net7.0::UpDownload_test.DownloadTest.UploadZipTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d99226d_002De532_002D4d33_002Daa2c_002D60eb7a37e3a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="&amp;lt;UpDownload_test&amp;gt; 中的所有测试" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\sw\class_library\GeneralUpDownload\UpDownload_test" Presentation="&amp;lt;UpDownload_test&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f1bea818_002D50c4_002D42c5_002Daee9_002Dd53687c4246c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DownloadFileTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::29572EC0-DC87-4F47-B965-2BD55850FD2E::net7.0::UpDownload_test.DownloadTest.DownloadFileTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::29572EC0-DC87-4F47-B965-2BD55850FD2E::net7.0::UpDownload_test.DownloadTest.UploadZipTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
+	
 	
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Uploadload/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

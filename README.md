@@ -2,8 +2,10 @@
 
 封装HTTP请求zip上传下载
 
-- 基于.NET 7 框架
-- 使用RestSharp HTTP库(106.15.0)
+GeneralUpDownload
+
+- 适应版本:.NET7 , FrameworkV4.5.2
+- 使用RestSharp HTTP库
 - xunit库进行单元测试
 
 ### 版本

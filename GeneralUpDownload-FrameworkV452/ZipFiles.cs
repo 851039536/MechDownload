@@ -101,7 +101,6 @@ namespace GeneralUpDownload_FrameworkV452
         private static void ExtractZipFile(string zipFilePath, string extractPath)
         {
             ZipFile.ExtractToDirectory(zipFilePath, extractPath);
-            
         }
 
         /// <summary>
@@ -125,7 +124,6 @@ namespace GeneralUpDownload_FrameworkV452
         {
             return Directory.Exists(directoryPath);
         }
-
 
         /// <summary>
         /// 通过HTTP下载

@@ -8,6 +8,9 @@ using RestSharp;
 
 namespace GeneralUpDownload_FrameworkV452
 {
+    /// <summary>
+    /// zip帮助类
+    /// </summary>
     public class ZipFiles
     {
         /// <summary>
@@ -59,7 +62,6 @@ namespace GeneralUpDownload_FrameworkV452
             {
                 File.Delete(zipPath);
             }
-
             return true;
         }
 
@@ -73,7 +75,7 @@ namespace GeneralUpDownload_FrameworkV452
         /// unPath:解压到指定路径,如空则解压到当前程序集的执行路径,
         /// downloadName:文件名称(必须跟后台上传文件名匹配)]
         /// </param>
-        /// <returns>bool</returns>
+        /// <returns>object</returns>
         public async Task<object> ElDownloadZip(object[] input)
         {
             // 根据传入参数的顺序，获取对应的值
@@ -128,7 +130,7 @@ namespace GeneralUpDownload_FrameworkV452
         /// zip文件上传(el版本)
         /// </summary>
         /// <param name="input">为object数组形式,有两个接收字段[httpPath:HTTP POST请求路径,zipPath:指定zip文件上传的路径]</param>
-        /// <returns></returns>
+        /// <returns>object</returns>
         public async Task<object> ElUploadZip(object[] input)
         {
             // 根据传入参数的顺序，获取对应的值
@@ -162,7 +164,7 @@ namespace GeneralUpDownload_FrameworkV452
         /// </summary>
         /// <param name="httpPath">HTTP POST请求路径</param>
         /// <param name="zipPath">指定zip文件上传的路径</param>
-        /// <returns></returns>
+        /// <returns>bool</returns>
         public static bool UploadZip(string httpPath, string zipPath)
         {
             //指定上传文件的API地址

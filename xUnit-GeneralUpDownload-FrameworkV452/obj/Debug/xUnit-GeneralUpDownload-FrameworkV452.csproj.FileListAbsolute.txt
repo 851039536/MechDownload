@@ -20,3 +20,4 @@ D:\sw\class_library\general-up-download\xUnit-GeneralUpDownload-FrameworkV452\ob
 D:\sw\class_library\general-up-download\xUnit-GeneralUpDownload-FrameworkV452\obj\Debug\xUnit-GeneralUpDownload-FrameworkV452.csproj.CopyComplete
 D:\sw\class_library\general-up-download\xUnit-GeneralUpDownload-FrameworkV452\obj\Debug\xUnit_GeneralUpDownload_FrameworkV452.dll
 D:\sw\class_library\general-up-download\xUnit-GeneralUpDownload-FrameworkV452\obj\Debug\xUnit_GeneralUpDownload_FrameworkV452.pdb
+D:\sw\class_library\general-up-download\xUnit-GeneralUpDownload-FrameworkV452\bin\Debug\GeneralUpDownload_FrameworkV452.xml

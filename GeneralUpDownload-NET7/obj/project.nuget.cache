@@ -5,8 +5,8 @@
   "projectFilePath": "D:\\sw\\class_library\\general-up-download\\GeneralUpDownload-NET7\\GeneralUpDownload-NET7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ch190006\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
-    "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
     "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
     "C:\\Users\\ch190006\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
   ],
   "logs": []

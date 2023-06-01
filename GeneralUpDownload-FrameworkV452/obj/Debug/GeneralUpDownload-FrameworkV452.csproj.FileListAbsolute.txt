@@ -7,3 +7,4 @@ D:\sw\class_library\general-up-download\GeneralUpDownload-FrameworkV452\obj\Debu
 D:\sw\class_library\general-up-download\GeneralUpDownload-FrameworkV452\obj\Debug\GeneralUpDownload-FrameworkV452.csproj.CopyComplete
 D:\sw\class_library\general-up-download\GeneralUpDownload-FrameworkV452\obj\Debug\GeneralUpDownload_FrameworkV452.dll
 D:\sw\class_library\general-up-download\GeneralUpDownload-FrameworkV452\obj\Debug\GeneralUpDownload_FrameworkV452.pdb
+D:\sw\class_library\general-up-download\GeneralUpDownload-FrameworkV452\bin\Debug\GeneralUpDownload_FrameworkV452.xml

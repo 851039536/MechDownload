@@ -1,12 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d99226d_002De532_002D4d33_002Daa2c_002D60eb7a37e3a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="&amp;lt;UpDownload_test&amp;gt; 中的所有测试" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::29572EC0-DC87-4F47-B965-2BD55850FD2E::net7.0::UpDownload_test.UpDownloadTest.UploadZipTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::29572EC0-DC87-4F47-B965-2BD55850FD2E::net7.0::UpDownload_test.UpDownloadTest.DownloadFileTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::C463A33E-97ED-429A-AA6A-93D0415C492E::.NETFramework,Version=v4.5.2::xUnit_GeneralUpDownload_FrameworkV452.Tests.UploadZipTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::C463A33E-97ED-429A-AA6A-93D0415C492E::.NETFramework,Version=v4.5.2::xUnit_GeneralUpDownload_FrameworkV452.Tests.DownloadFileTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
 	
 	
 	

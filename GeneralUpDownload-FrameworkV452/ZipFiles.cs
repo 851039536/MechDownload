@@ -3,11 +3,12 @@ using System.IO;
 using System.IO.Compression;
 using System.Net;
 using System.Text;
+using System.Threading.Tasks;
 using RestSharp;
 
 namespace GeneralUpDownload_FrameworkV452
 {
-    public abstract class ZipFiles
+    public class ZipFiles
     {
         /// <summary>
         /// zip压缩包下载
@@ -23,7 +24,6 @@ namespace GeneralUpDownload_FrameworkV452
         {
             const string testName = "TestItem";
             // const string downloadName = "CopyTest";
-
             //检测下载解压的文件是否存在
             if (IsExistDirectory(zipPath + @"\" + downloadName))
             {
@@ -63,6 +63,100 @@ namespace GeneralUpDownload_FrameworkV452
             return true;
         }
 
+        /// <summary>
+        /// zip压缩包下载(el版本)
+        /// 下载完成后自动执行解压动作,需传入解压路径unPath
+        /// 解压完成自动根据downloadName字段删除zip包
+        /// </summary>
+        /// <param name="input">为object数组形式,有四个接收字段[httpPath:HTTP POST请求路径,
+        /// zipPath:下载文件到指定路径,如空则下载到当前程序集的执行路径,
+        /// unPath:解压到指定路径,如空则解压到当前程序集的执行路径,
+        /// downloadName:文件名称(必须跟后台上传文件名匹配)]
+        /// </param>
+        /// <returns>bool</returns>
+        public async Task<object> ElDownloadZip(object[] input)
+        {
+            // 根据传入参数的顺序，获取对应的值
+            var httpPath = input[0].ToString();
+            var zipPath = input[1].ToString();
+            var unPath = input[2].ToString();
+            var downloadName = input[3].ToString();
+            
+            const string testName = "TestItem";
+            // const string downloadName = "CopyTest";
+
+            //检测下载解压的文件是否存在
+            if (IsExistDirectory(zipPath + @"\" + downloadName))
+            {
+                Directory.Delete((zipPath + @"\" + downloadName), true);
+            }
+
+            //下载指定路径
+            zipPath += @"\" + downloadName + ".zip";
+
+            // 定义一个字符串变量，用于存储 JSON 格式的数据
+            var strContent = "{\"TestName\":\"" + testName + "\",\"DownloadName\":\"" + downloadName + "\"}";
+
+            // 检查目录是否存在，如果不存在则创建目录
+            EnsureDirectoryExists(Path.GetDirectoryName(zipPath) ?? string.Empty);
+
+            // 发送HTTP POST请求，下载ZIP文件
+            var data = HttpPost(httpPath,
+                strContent, "POST", zipPath);
+
+
+            //下载成功
+            if (data)
+            {
+                // 解压文件
+                ExtractZipFile(zipPath, unPath + @"\" + downloadName);
+            }
+            else
+            {
+                return Task.FromResult<object>("false");
+            }
+
+            if (File.Exists(zipPath))
+            {
+                File.Delete(zipPath);
+            }
+
+            return Task.FromResult<object>("true");
+        }
+
+        /// <summary>
+        /// zip文件上传(el版本)
+        /// </summary>
+        /// <param name="input">为object数组形式,有两个接收字段[httpPath:HTTP POST请求路径,zipPath:指定zip文件上传的路径]</param>
+        /// <returns></returns>
+        public async Task<object> ElUploadZip(object[] input)
+        {
+            // 根据传入参数的顺序，获取对应的值
+            var httpPath = input[0].ToString();
+            var zipPath = input[1].ToString();
+            
+            //指定上传文件的API地址
+            var client = new RestClient(httpPath);
+            //指定请求方式为POST
+            var request = new RestRequest(Method.POST)
+            {
+                // 指定请求格式为Json
+                RequestFormat = DataFormat.Json
+            };
+            // 添加上传的文件
+            request.AddFile("file", zipPath);
+            // 添加请求参数
+            request.AddParameter("pictureName", "false");
+            // 执行请求并获取响应内容
+            var data = client.Execute(request);
+            if (data.StatusCode.ToString() == "OK")
+            {
+                return true;
+            }
+
+            return false;
+        }   
+        
         /// <summary>
         /// zip文件上传
         /// </summary>

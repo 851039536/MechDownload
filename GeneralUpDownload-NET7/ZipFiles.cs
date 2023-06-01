@@ -5,7 +5,7 @@ using RestSharp;
 
 namespace GeneralUpDownload;
 
-public abstract class ZipFiles
+public  class ZipFiles
 {
     /// <summary>
     /// zip压缩包下载

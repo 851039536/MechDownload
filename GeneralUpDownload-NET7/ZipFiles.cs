@@ -8,7 +8,7 @@ namespace GeneralUpDownload;
 public  class ZipFiles
 {
     /// <summary>
-    /// zip压缩包下载
+    /// zip压缩包下载(量产模式)
     /// 下载完成后自动执行解压动作,需传入解压路径unPath
     /// 解压完成自动根据downloadName字段删除zip包
     /// </summary>
@@ -61,6 +61,57 @@ public  class ZipFiles
         return true;
     }
 
+    /// <summary>
+    /// zip压缩包下载(工程模式)
+    /// 下载完成后自动执行解压动作,需传入解压路径unPath
+    /// 解压完成自动根据downloadName字段删除zip包
+    /// </summary>
+    /// <param name="httpPath">HTTP POST请求路径</param>
+    /// <param name="zipPath">下载文件到指定路径,如空则下载到当前程序集的执行路径(根目录)</param>
+    /// <param name="unPath">解压到指定路径,如空则解压到当前程序集的执行路径(根目录)</param>
+    /// <param name="downloadName">文件名称(必须跟后台上传文件名匹配)</param>
+    /// <returns>bool</returns>
+    public static bool DownloadEngineeringModeZip(string httpPath, string zipPath, string unPath, string downloadName)
+    {
+        const string testName = "EngineeringMode";
+        // const string downloadName = "CopyTest";
+        //检测下载解压的文件是否存在
+        if (IsExistDirectory(zipPath + @"\" + downloadName))
+        {
+            Directory.Delete((zipPath + @"\" + downloadName), true);
+        }
+
+        //下载指定路径
+        zipPath += @"\" + downloadName + ".zip";
+
+        // 定义一个字符串变量，用于存储 JSON 格式的数据
+        var strContent = "{\"TestName\":\"" + testName + "\",\"DownloadName\":\"" + downloadName + "\"}";
+
+        // 检查目录是否存在，如果不存在则创建目录
+        EnsureDirectoryExists(Path.GetDirectoryName(zipPath) ?? string.Empty);
+
+        // 发送HTTP POST请求，下载ZIP文件
+        var data = HttpPost(httpPath,
+            strContent, "POST", zipPath);
+
+        //下载成功
+        if (data)
+        {
+            // 解压文件
+            ExtractZipFile(zipPath, unPath + @"\" + downloadName);
+        }
+        else
+        {
+            return false;
+        }
+
+        if (File.Exists(zipPath))
+        {
+            File.Delete(zipPath);
+        }
+        return true;
+    }
+    
     /// <summary>
     /// zip文件上传
     /// </summary>

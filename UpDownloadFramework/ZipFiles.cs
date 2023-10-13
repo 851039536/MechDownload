@@ -35,7 +35,6 @@ namespace UpDownloadFramework
 
             //下载指定路径
             zipPath += @"\" + downloadName + ".zip";
-
             // 定义一个字符串变量，用于存储 JSON 格式的数据
             var strContent = "{\"TestName\":\"" + testName + "\",\"DownloadName\":\"" + downloadName + "\"}";
 
@@ -61,8 +60,10 @@ namespace UpDownloadFramework
             {
                 File.Delete(zipPath);
             }
+
             return true;
         }
+
         /// <summary>
         /// zip压缩包下载(工程模式)
         /// 下载完成后自动执行解压动作,需传入解压路径unPath
@@ -81,6 +82,7 @@ namespace UpDownloadFramework
             {
                 Directory.Delete((zipPath + @"\" + downloadName), true);
             }
+
             //下载指定路径
             zipPath += @"\" + downloadName + ".zip";
             // 定义一个字符串变量，用于存储 JSON 格式的数据
@@ -105,8 +107,10 @@ namespace UpDownloadFramework
             {
                 File.Delete(zipPath);
             }
+
             return true;
         }
+
         /// <summary>
         /// zip压缩包下载(el版本)
         /// 下载完成后自动执行解压动作,需传入解压路径unPath
@@ -125,7 +129,7 @@ namespace UpDownloadFramework
             var zipPath = input[1].ToString();
             var unPath = input[2].ToString();
             var downloadName = input[3].ToString();
-            
+
             const string testName = "TestItem";
             // const string downloadName = "CopyTest";
 
@@ -178,7 +182,7 @@ namespace UpDownloadFramework
             // 根据传入参数的顺序，获取对应的值
             var httpPath = input[0].ToString();
             var zipPath = input[1].ToString();
-            
+
             //指定上传文件的API地址
             var client = new RestClient(httpPath);
             //指定请求方式为POST
@@ -199,8 +203,8 @@ namespace UpDownloadFramework
             }
 
             return false;
-        }   
-        
+        }
+
         /// <summary>
         /// zip文件上传
         /// </summary>

@@ -25,6 +25,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\GeneralUpDownloadNetCore\GeneralUpDownloadNetCore.csproj" />
+      <ProjectReference Include="..\UpDownloadNetCore\GeneralUpDownloadNetCore.csproj" />
     </ItemGroup>
 
 </Project>

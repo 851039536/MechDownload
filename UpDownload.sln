@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralUpDownloadNetCore", "GeneralUpDownloadNetCore\GeneralUpDownloadNetCore.csproj", "{53EEEE6A-B0F9-4F72-AAD6-384347B5DAAA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitGeneralUpDownloadNetCore", "xUnitGeneralUpDownloadNetCore\xUnitGeneralUpDownloadNetCore.csproj", "{29572EC0-DC87-4F47-B965-2BD55850FD2E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpDownloadFramework", "UpDownloadFramework\UpDownloadFramework.csproj", "{3DF8F1C1-11C8-4586-ABD7-026C7DB81B68}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitUpDownloadFramework", "xUnitUpDownloadFramework\xUnitUpDownloadFramework.csproj", "{C463A33E-97ED-429A-AA6A-93D0415C492E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralUpDownloadNetCore", "UpDownloadNetCore\GeneralUpDownloadNetCore.csproj", "{CE0C1397-8F1E-4174-93A4-254F9E7C3944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitGeneralUpDownloadNetCore", "xUnitUpDownloadNetCore\xUnitGeneralUpDownloadNetCore.csproj", "{BB340D64-D728-47F8-9350-C8E799E415B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,14 +14,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53EEEE6A-B0F9-4F72-AAD6-384347B5DAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53EEEE6A-B0F9-4F72-AAD6-384347B5DAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53EEEE6A-B0F9-4F72-AAD6-384347B5DAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53EEEE6A-B0F9-4F72-AAD6-384347B5DAAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{29572EC0-DC87-4F47-B965-2BD55850FD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29572EC0-DC87-4F47-B965-2BD55850FD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29572EC0-DC87-4F47-B965-2BD55850FD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29572EC0-DC87-4F47-B965-2BD55850FD2E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3DF8F1C1-11C8-4586-ABD7-026C7DB81B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3DF8F1C1-11C8-4586-ABD7-026C7DB81B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DF8F1C1-11C8-4586-ABD7-026C7DB81B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,5 +22,13 @@ Global
 		{C463A33E-97ED-429A-AA6A-93D0415C492E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C463A33E-97ED-429A-AA6A-93D0415C492E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C463A33E-97ED-429A-AA6A-93D0415C492E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0C1397-8F1E-4174-93A4-254F9E7C3944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0C1397-8F1E-4174-93A4-254F9E7C3944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0C1397-8F1E-4174-93A4-254F9E7C3944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0C1397-8F1E-4174-93A4-254F9E7C3944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB340D64-D728-47F8-9350-C8E799E415B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB340D64-D728-47F8-9350-C8E799E415B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB340D64-D728-47F8-9350-C8E799E415B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB340D64-D728-47F8-9350-C8E799E415B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

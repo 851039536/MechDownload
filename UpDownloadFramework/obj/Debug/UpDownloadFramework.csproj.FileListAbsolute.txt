@@ -8,3 +8,13 @@ D:\sw\class_library\general-up-download\UpDownloadFramework\obj\Debug\UpDownload
 D:\sw\class_library\general-up-download\UpDownloadFramework\obj\Debug\UpDownloadFramework.csproj.CopyComplete
 D:\sw\class_library\general-up-download\UpDownloadFramework\obj\Debug\UpDownloadFramework.dll
 D:\sw\class_library\general-up-download\UpDownloadFramework\obj\Debug\UpDownloadFramework.pdb
+D:\sw\class_library\UpDownload\UpDownloadFramework\bin\Debug\GeneralUpDownload_FrameworkV452.xml
+D:\sw\class_library\UpDownload\UpDownloadFramework\bin\Debug\UpDownloadFramework.dll
+D:\sw\class_library\UpDownload\UpDownloadFramework\bin\Debug\UpDownloadFramework.pdb
+D:\sw\class_library\UpDownload\UpDownloadFramework\bin\Debug\RestSharp.dll
+D:\sw\class_library\UpDownload\UpDownloadFramework\bin\Debug\RestSharp.xml
+D:\sw\class_library\UpDownload\UpDownloadFramework\obj\Debug\UpDownloadFramework.csproj.AssemblyReference.cache
+D:\sw\class_library\UpDownload\UpDownloadFramework\obj\Debug\UpDownloadFramework.csproj.CoreCompileInputs.cache
+D:\sw\class_library\UpDownload\UpDownloadFramework\obj\Debug\UpDownloadFramework.csproj.CopyComplete
+D:\sw\class_library\UpDownload\UpDownloadFramework\obj\Debug\UpDownloadFramework.dll
+D:\sw\class_library\UpDownload\UpDownloadFramework\obj\Debug\UpDownloadFramework.pdb

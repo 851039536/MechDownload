@@ -10,13 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("kai.ouyang")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("xUnitGeneralUpDownloadNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("封装HTTP请求zip上传下载")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ff6e3a2085350a83c03514e718188178aad3b04")]
-[assembly: System.Reflection.AssemblyProductAttribute("GeneralUpDownloadNetCore")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GeneralUpDownloadNetCore")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("xUnitGeneralUpDownloadNetCore")]
+[assembly: System.Reflection.AssemblyTitleAttribute("xUnitGeneralUpDownloadNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

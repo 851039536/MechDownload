@@ -41,7 +41,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ch190006\\.nuget\\packages\\": {},
+    "D:\\Nuget\\.nuget\\packages": {},
     "D:\\Microsoft Visual Studio\\2022\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -50,7 +50,7 @@
       "projectUniqueName": "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
       "projectName": "GeneralUpDownloadNetCore",
       "projectPath": "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
-      "packagesPath": "C:\\Users\\ch190006\\.nuget\\packages\\",
+      "packagesPath": "D:\\Nuget\\.nuget\\packages",
       "outputPath": "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -106,8 +106,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

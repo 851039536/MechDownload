@@ -1726,17 +1726,17 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "GeneralUpDownload-NET7/1.0.0": {
+      "GeneralUpDownloadNetCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "RestSharp": "106.15.0"
         },
         "compile": {
-          "bin/placeholder/GeneralUpDownload-NET7.dll": {}
+          "bin/placeholder/GeneralUpDownloadNetCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GeneralUpDownload-NET7.dll": {}
+          "bin/placeholder/GeneralUpDownloadNetCore.dll": {}
         }
       }
     }
@@ -5549,15 +5549,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "GeneralUpDownload-NET7/1.0.0": {
+    "GeneralUpDownloadNetCore/1.0.0": {
       "type": "project",
-      "path": "../GeneralUpDownload-NET7/GeneralUpDownload-NET7.csproj",
-      "msbuildProject": "../GeneralUpDownload-NET7/GeneralUpDownload-NET7.csproj"
+      "path": "../UpDownloadNetCore/GeneralUpDownloadNetCore.csproj",
+      "msbuildProject": "../UpDownloadNetCore/GeneralUpDownloadNetCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "GeneralUpDownload-NET7 >= 1.0.0",
+      "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
+      "GeneralUpDownloadNetCore >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5565,17 +5566,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ch190006\\.nuget\\packages\\": {},
+    "D:\\Nuget\\.nuget\\packages": {},
     "D:\\Microsoft Visual Studio\\2022\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sw\\class_library\\general-up-download\\xUnit-GeneralUpDownload-NET7\\xUnit-GeneralUpDownload-NET7.csproj",
-      "projectName": "xUnit-GeneralUpDownload-NET7",
-      "projectPath": "D:\\sw\\class_library\\general-up-download\\xUnit-GeneralUpDownload-NET7\\xUnit-GeneralUpDownload-NET7.csproj",
-      "packagesPath": "C:\\Users\\ch190006\\.nuget\\packages\\",
-      "outputPath": "D:\\sw\\class_library\\general-up-download\\xUnit-GeneralUpDownload-NET7\\obj\\",
+      "projectUniqueName": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\xUnitGeneralUpDownloadNetCore.csproj",
+      "projectName": "xUnitGeneralUpDownloadNetCore",
+      "projectPath": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\xUnitGeneralUpDownloadNetCore.csproj",
+      "packagesPath": "D:\\Nuget\\.nuget\\packages",
+      "outputPath": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\2022\\Shared\\NuGetPackages"
@@ -5597,8 +5598,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\sw\\class_library\\general-up-download\\GeneralUpDownload-NET7\\GeneralUpDownload-NET7.csproj": {
-              "projectPath": "D:\\sw\\class_library\\general-up-download\\GeneralUpDownload-NET7\\GeneralUpDownload-NET7.csproj"
+            "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj": {
+              "projectPath": "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj"
+            },
+            "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj": {
+              "projectPath": "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj"
             }
           }
         }
@@ -5645,27 +5649,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.2, 7.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.2, 7.0.2]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.2, 7.0.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.3.23178.7\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

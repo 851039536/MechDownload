@@ -2,17 +2,27 @@
 
 封装HTTP请求zip上传下载
 
-GeneralUpDownload
+UpDownload
 
-- 适应版本:.NET7 , FrameworkV4.5.2
+- 适应版本:.NET7 , Framework
 - 使用RestSharp HTTP库
 - xunit库进行单元测试
 
-### 版本
+#### 上传接口
 
-当前版本 : v1.0.0
+- PostUploadloadFileEngineeringMode 工程模式 PostUploadloadFileTestItem 量产模式
+- http://10.55.2.25:20005/api/工程模式/量产模式
+- http://10.55.2.25:20005/api/GetALLModelALLDLL
 
-### 概念
+#### 下载接口
+
+```
+http://10.55.2.25:20005/api/PostDownloadZIP //适用量产模式
+```
+
+工程模式配合模板程序使用,通过API上传到系统,然后通过模板进行更新
+
+#### 关键概念
 
 了解以下几个关键概念：
 
@@ -20,7 +30,7 @@ GeneralUpDownload
 - zip压缩包：一种常见的文件压缩格式，可以将多个文件压缩成一个文件，以减小文件大小。
 - 解压：将压缩文件还原成原始文件的过程。
 
-### 文件下载
+#### 文件下载
 
 本代码包含一个名为的静态方法，该方法接受四个参数：`DownloadZip`
 
@@ -30,6 +40,8 @@ GeneralUpDownload
 - `downloadName`：文件名称，必须跟后台上传文件名匹配。
 
 该方法返回一个布尔值，表示下载和解压是否成功。
+
+
 
 #### DownloadZip
 
@@ -105,6 +117,40 @@ const input = [DownloadPath.value, zipDownload.value, uNzip.value, zipName.value
   });
 };
 ```
+
+##### 工程模式下载
+
+```
+        /// <summary>
+        /// zip压缩包下载(工程模式)
+        /// 下载完成后自动执行解压动作,需传入解压路径unPath
+        /// 解压完成自动根据downloadName字段删除zip包
+        /// </summary>
+        /// <param name="httpPath">HTTP POST请求路径</param>
+        /// <param name="zipPath">下载文件到指定路径,如空则下载到当前程序集的执行路径(根目录)</param>
+        /// <param name="unPath">解压到指定路径,如空则解压到当前程序集的执行路径(根目录)</param>
+        /// <param name="downloadName">文件名称(必须跟后台上传文件名匹配)</param>
+        /// <returns>bool</returns>
+        public static bool DownloadEngineeringModeZip(string httpPath, string zipPath, string unPath, string downloadName)
+```
+
+```
+                var ret = ZipFiles.DownloadEngineeringModeZip(http, downPath,
+                    unPath, title);
+                if (ret)
+                {
+                    MechFile.OpenFile(downPath);
+                    MechWin.MesBoxs("下载完成", "下载");  
+                }
+```
+
+
+
+
+
+
+
+
 
 ### 文件上传
 

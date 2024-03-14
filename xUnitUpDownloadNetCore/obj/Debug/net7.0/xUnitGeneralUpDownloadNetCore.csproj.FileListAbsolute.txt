@@ -1,0 +1,15 @@
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\bin\Debug\net7.0\xUnitGeneralUpDownloadNetCore.deps.json
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\bin\Debug\net7.0\xUnitGeneralUpDownloadNetCore.dll
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\bin\Debug\net7.0\xUnitGeneralUpDownloadNetCore.pdb
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\bin\Debug\net7.0\GeneralUpDownloadNetCore.dll
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\bin\Debug\net7.0\GeneralUpDownloadNetCore.pdb
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.csproj.AssemblyReference.cache
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.AssemblyInfoInputs.cache
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.AssemblyInfo.cs
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.csproj.CoreCompileInputs.cache
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.csproj.CopyComplete
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.dll
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\refint\xUnitGeneralUpDownloadNetCore.dll
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\xUnitGeneralUpDownloadNetCore.pdb
+D:\sw\class_library\general-up-download\xUnitGeneralUpDownloadNetCore\obj\Debug\net7.0\ref\xUnitGeneralUpDownloadNetCore.dll

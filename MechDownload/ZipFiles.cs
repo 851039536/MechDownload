@@ -6,12 +6,12 @@ using System.Text;
 using System.Threading.Tasks;
 using RestSharp;
 
-namespace UpDownloadFramework
+namespace MechDownload
 {
     /// <summary>
     /// zip帮助类
     /// </summary>
-    public class ZipFiles
+    public abstract class ZipFiles
     {
         /// <summary>
         /// zip压缩包下载(量产模式)

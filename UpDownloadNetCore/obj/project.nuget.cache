@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "92Mjp9plq3mb6hYqLOJuKrUBaqKKnfkb1QfxoqsG8YtfyKZBJmJLhusMEnv5RHbneecgLIoSrcxZaEPA/C9PUA==",
+  "dgSpecHash": "UmgYn85c+kzrJJPDuYYOnperp8AxR22HFCBF4eNYilR9/m3luXgeWRO6kwAIFHmVyNHFfDc8wHeGJWmWNa2Srg==",
   "success": true,
-  "projectFilePath": "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
+  "projectFilePath": "D:\\sw\\class_library\\MechDownload\\UpDownloadNetCore\\MechDownloadCore.csproj",
   "expectedPackageFiles": [
     "D:\\Nuget\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

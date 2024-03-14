@@ -7,6 +7,7 @@
         <Title>上传下载库</Title>
         <Authors>kai.ouyang</Authors>
         <Description>封装HTTP请求zip上传下载</Description>
+        <RootNamespace>GeneralUpDownloadNetCore</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b38e84fb-958c-48ad-9e47-0b022a4b96fe" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MechDownload/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MechDownload/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MechDownload/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MechDownload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MechDownload.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/UpDownloadFramework.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/MechDownloadCore.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/MechDownloadCore.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/MechDownloadCore.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/MechDownloadCore.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/MechDownloadCore.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/MechDownloadCore.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/MechDownloadCore.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/MechDownloadCore.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/MechDownloadCore.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitMechDownloadCoreTests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitMechDownloadCoreTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitMechDownloadCoreTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitMechDownloadCoreTests.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitMechDownloadCoreTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitMechDownloadCoreTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitMechDownloadCoreTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitMechDownloadCoreTests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitMechDownloadCoreTests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UpDownload/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UpDownload/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UpDownload/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UpDownload/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownload.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/UpDownloadFramework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/MechDownload.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/ZipFiles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/ZipFiles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/bin/Debug/RestSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/bin/Debug/RestSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/bin/Debug/RestSharp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/bin/Debug/RestSharp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/bin/Debug/UpDownloadFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/bin/Debug/MechDownload.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/bin/Debug/UpDownloadFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/bin/Debug/MechDownload.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/.NETFramework,Version=v4.6.2.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/.NETFramework,Version=v4.6.2.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/GeneralUpDownload-FrameworkV452.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/GeneralUpDownload_FrameworkV452.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/GeneralUpDownload_FrameworkV452.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/GeneralUpDownload_FrameworkV452.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/GeneralUpDownload_FrameworkV452.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/UpDownloadFramework.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/MechDownload.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/UpDownloadFramework.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/UpDownloadFramework.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/UpDownloadFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/UpDownloadFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/UpDownloadFramework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/UpDownloadFramework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/UpDownloadFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/UpDownloadFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/obj/Debug/UpDownloadFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/obj/Debug/UpDownloadFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadFramework/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/MechDownload/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/GeneralUpDownloadNetCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/MechDownloadCore.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/ZipFiles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/ZipFiles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/bin/Debug/net7.0/GeneralUpDownloadNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/bin/Debug/net7.0/MechDownloadCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/bin/Debug/net7.0/GeneralUpDownloadNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/bin/Debug/net7.0/MechDownloadCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/GeneralUpDownloadNetCore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/GeneralUpDownloadNetCore.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/GeneralUpDownloadNetCore.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/GeneralUpDownloadNetCore.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/GeneralUpDownloadNetCore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/Debug/net7.0/GeneralUpDownloadNetCore.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpDownloadNetCore/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UpDownloadNetCore/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/RestSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/RestSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/RestSharp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/RestSharp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/UpDownloadFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/UpDownloadFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/UpDownloadFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/UpDownloadFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xUnitUpDownloadFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xUnitUpDownload.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xUnitUpDownloadFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xUnitUpDownload.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.abstractions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.abstractions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.assert.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.assert.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.assert.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.assert.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.assert.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.assert.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.execution.desktop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.execution.desktop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.execution.desktop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.execution.desktop.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/bin/Debug/xunit.execution.desktop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/bin/Debug/xunit.execution.desktop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnit-GeneralUpDownload-FrameworkV452.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnitUpDownloadFramework.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnitUpDownloadFramework.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnitUpDownloadFramework.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnitUpDownloadFramework.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnitUpDownloadFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnitUpDownloadFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnitUpDownloadFramework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnitUpDownloadFramework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnitUpDownloadFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnitUpDownloadFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnitUpDownloadFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnitUpDownloadFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnit_GeneralUpDownload_FrameworkV452.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnit_GeneralUpDownload_FrameworkV452.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/obj/Debug/xUnit_GeneralUpDownload_FrameworkV452.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/obj/Debug/xUnit_GeneralUpDownload_FrameworkV452.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadFramework/xUnitUpDownloadFramework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownload/xUnitUpDownload.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/UpDownloadTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/UpDownloadTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/bin/Debug/net7.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/bin/Debug/net7.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/bin/Debug/net7.0/xUnitGeneralUpDownloadNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/bin/Debug/net7.0/xUnitMechDownloadCoreTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/bin/Debug/net7.0/xUnitGeneralUpDownloadNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/bin/Debug/net7.0/xUnitMechDownloadCoreTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/Debug/net7.0/xUnitGeneralUpDownloadNetCore.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitGeneralUpDownloadNetCore.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitGeneralUpDownloadNetCore.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitGeneralUpDownloadNetCore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/obj/xUnitGeneralUpDownloadNetCore.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xUnitUpDownloadNetCore/xUnitGeneralUpDownloadNetCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/xUnitUpDownloadNetCore/xUnitMechDownloadCoreTests.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ad4dd7f93448444a943827379a8d287e6ba8/bd/3101e5d2/ZipFile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/sw/class_library/UpDownload/UpDownloadNetCore/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Q8ylTIdqViZvysLiTz8N3WlMbU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\ch190006\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\ch190006\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\ch190006\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b38e84fb-958c-48ad-9e47-0b022a4b96fe" name="更改" comment="" />
+      <created>1684749658725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684749658725</updated>
+      <workItem from="1684749660993" duration="746000" />
+      <workItem from="1684750616040" duration="468000" />
+      <workItem from="1684751682504" duration="322000" />
+      <workItem from="1684800217357" duration="2213000" />
+      <workItem from="1684809382812" duration="931000" />
+      <workItem from="1685523571191" duration="705000" />
+      <workItem from="1685528193556" duration="151000" />
+      <workItem from="1685529083870" duration="912000" />
+      <workItem from="1685579589442" duration="3856000" />
+      <workItem from="1685599034996" duration="1346000" />
+      <workItem from="1685669537010" duration="35000" />
+      <workItem from="1686635637222" duration="1537000" />
+      <workItem from="1686886669238" duration="31000" />
+      <workItem from="1688529225669" duration="1895000" />
+      <workItem from="1688779152483" duration="1859000" />
+      <workItem from="1698196485472" duration="4296000" />
+      <workItem from="1698201916368" duration="539000" />
+      <workItem from="1705712996008" duration="903000" />
+      <workItem from="1709704089154" duration="7000" />
+      <workItem from="1710390217852" duration="1718000" />
+    </task>
+    <task id="LOCAL-00001" summary="docs:更新文档描述">
+      <created>1684800376208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684800376208</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix:add">
+      <created>1684809425340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684809425340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat:新增工程模式上传">
+      <option name="closed" value="true" />
+      <created>1688535492591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688535492592</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat:新增工程模式上传">
+      <option name="closed" value="true" />
+      <created>1688535807540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688535807540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix:更新名称">
+      <option name="closed" value="true" />
+      <created>1698201678990</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698201678990</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="docs:更新文档描述" />
+    <MESSAGE value="fix:add" />
+    <MESSAGE value="feat:新增工程模式上传" />
+    <MESSAGE value="fix:更新名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix:更新名称" />
+  </component>
+</project>

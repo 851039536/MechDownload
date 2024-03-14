@@ -1726,17 +1726,17 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "GeneralUpDownloadNetCore/1.0.0": {
+      "MechDownloadCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "RestSharp": "106.15.0"
         },
         "compile": {
-          "bin/placeholder/GeneralUpDownloadNetCore.dll": {}
+          "bin/placeholder/MechDownloadCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GeneralUpDownloadNetCore.dll": {}
+          "bin/placeholder/MechDownloadCore.dll": {}
         }
       }
     }
@@ -5549,16 +5549,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "GeneralUpDownloadNetCore/1.0.0": {
+    "MechDownloadCore/1.0.0": {
       "type": "project",
-      "path": "../UpDownloadNetCore/GeneralUpDownloadNetCore.csproj",
-      "msbuildProject": "../UpDownloadNetCore/GeneralUpDownloadNetCore.csproj"
+      "path": "../UpDownloadNetCore/MechDownloadCore.csproj",
+      "msbuildProject": "../UpDownloadNetCore/MechDownloadCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
-      "GeneralUpDownloadNetCore >= 1.0.0",
+      "D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
+      "MechDownloadCore >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\xUnitGeneralUpDownloadNetCore.csproj",
-      "projectName": "xUnitGeneralUpDownloadNetCore",
-      "projectPath": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\xUnitGeneralUpDownloadNetCore.csproj",
+      "projectUniqueName": "D:\\sw\\class_library\\MechDownload\\xUnitUpDownloadNetCore\\xUnitMechDownloadCoreTests.csproj",
+      "projectName": "xUnitMechDownloadCoreTests",
+      "projectPath": "D:\\sw\\class_library\\MechDownload\\xUnitUpDownloadNetCore\\xUnitMechDownloadCoreTests.csproj",
       "packagesPath": "D:\\Nuget\\.nuget\\packages",
-      "outputPath": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\obj\\",
+      "outputPath": "D:\\sw\\class_library\\MechDownload\\xUnitUpDownloadNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\2022\\Shared\\NuGetPackages"
@@ -5598,11 +5598,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj": {
-              "projectPath": "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj"
+            "D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj": {
+              "projectPath": "D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj"
             },
-            "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj": {
-              "projectPath": "D:\\sw\\class_library\\UpDownload\\UpDownloadNetCore\\GeneralUpDownloadNetCore.csproj"
+            "D:\\sw\\class_library\\MechDownload\\UpDownloadNetCore\\MechDownloadCore.csproj": {
+              "projectPath": "D:\\sw\\class_library\\MechDownload\\UpDownloadNetCore\\MechDownloadCore.csproj"
             }
           }
         }
@@ -5654,7 +5654,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -5662,8 +5662,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
+      "message": "Unable to find project 'D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
       "targetGraphs": [
         "net7.0"
       ]

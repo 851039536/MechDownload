@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpDownloadFramework", "UpDownloadFramework\UpDownloadFramework.csproj", "{3DF8F1C1-11C8-4586-ABD7-026C7DB81B68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechDownload", "MechDownload\MechDownload.csproj", "{3DF8F1C1-11C8-4586-ABD7-026C7DB81B68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitUpDownloadFramework", "xUnitUpDownloadFramework\xUnitUpDownloadFramework.csproj", "{C463A33E-97ED-429A-AA6A-93D0415C492E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitUpDownloadTests", "xUnitUpDownloadTests\xUnitUpDownloadTests.csproj", "{C463A33E-97ED-429A-AA6A-93D0415C492E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralUpDownloadNetCore", "UpDownloadNetCore\GeneralUpDownloadNetCore.csproj", "{CE0C1397-8F1E-4174-93A4-254F9E7C3944}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechDownloadCore", "UpDownloadNetCore\MechDownloadCore.csproj", "{CE0C1397-8F1E-4174-93A4-254F9E7C3944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitGeneralUpDownloadNetCore", "xUnitUpDownloadNetCore\xUnitGeneralUpDownloadNetCore.csproj", "{BB340D64-D728-47F8-9350-C8E799E415B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitMechDownloadCoreTests", "xUnitUpDownloadNetCore\xUnitMechDownloadCoreTests.csproj", "{BB340D64-D728-47F8-9350-C8E799E415B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 ## HTTP上传下载库
 
-封装HTTP请求zip上传下载
+封装HTTP请求zip上传下载 (调用内部网络api)
 
-UpDownload
+**MechDownload**
 
 - 适应版本:.NET7 , Framework
 - 使用RestSharp HTTP库
@@ -143,14 +143,6 @@ const input = [DownloadPath.value, zipDownload.value, uNzip.value, zipName.value
                     MechWin.MesBoxs("下载完成", "下载");  
                 }
 ```
-
-
-
-
-
-
-
-
 
 ### 文件上传
 

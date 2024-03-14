@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oazKxzhXn6di7SbX0tbwDijc/7FtqlC56D5z+ceZDacQ4eow8feThlxbzGXA8dYYR6GfBN8SNLpE/oK1Im9Jng==",
+  "dgSpecHash": "5hL0K6/2fjr5ROYLTondV8Z7JFxhtgyx5AmYS9KSZe4vmE7eOn6aWvZLAfGT/QVMU2RhyngybvnrqFtdTgRtaA==",
   "success": false,
-  "projectFilePath": "D:\\sw\\class_library\\UpDownload\\xUnitUpDownloadNetCore\\xUnitGeneralUpDownloadNetCore.csproj",
+  "projectFilePath": "D:\\sw\\class_library\\MechDownload\\xUnitUpDownloadNetCore\\xUnitMechDownloadCoreTests.csproj",
   "expectedPackageFiles": [
     "D:\\Nuget\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "D:\\Nuget\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -99,8 +99,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\sw\\class_library\\UpDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
+      "message": "Unable to find project 'D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\sw\\class_library\\MechDownload\\GeneralUpDownloadNetCore\\GeneralUpDownloadNetCore.csproj",
       "targetGraphs": [
         "net7.0"
       ]

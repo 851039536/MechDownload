@@ -3,9 +3,9 @@ using System.Net;
 using System.Text;
 using RestSharp;
 
-namespace GeneralUpDownload;
+namespace GeneralUpDownloadNetCore;
 
-public  class ZipFiles
+public static class ZipFiles
 {
     /// <summary>
     /// zip压缩包下载(量产模式)
@@ -40,8 +40,6 @@ public  class ZipFiles
         // 发送HTTP POST请求，下载ZIP文件
         var data = HttpPost(httpPath,
             strContent, "POST", zipPath);
-
-
         //下载成功
         if (data)
         {

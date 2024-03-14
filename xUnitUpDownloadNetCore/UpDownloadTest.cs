@@ -1,4 +1,4 @@
-using GeneralUpDownload;
+using GeneralUpDownloadNetCore;
 
 namespace UpDownload_test;
 

@@ -9,7 +9,7 @@
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>xUnitUpDownloadFramework</RootNamespace>
-        <AssemblyName>xUnitUpDownloadFramework</AssemblyName>
+        <AssemblyName>xUnitUpDownloadTests</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
@@ -58,9 +58,9 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\UpDownloadFramework\UpDownloadFramework.csproj">
+      <ProjectReference Include="..\MechDownload\MechDownload.csproj">
         <Project>{3df8f1c1-11c8-4586-abd7-026c7db81b68}</Project>
-        <Name>UpDownloadFramework</Name>
+        <Name>MechDownload</Name>
       </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

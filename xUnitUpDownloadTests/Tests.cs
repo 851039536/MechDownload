@@ -1,4 +1,4 @@
-﻿using UpDownloadFramework;
+﻿using MechDownload;
 using Xunit;
 
 namespace xUnitUpDownloadFramework

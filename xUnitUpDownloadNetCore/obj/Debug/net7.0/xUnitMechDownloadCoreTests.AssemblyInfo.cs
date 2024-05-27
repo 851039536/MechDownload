@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("xUnitMechDownloadCoreTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+384b06a04c915c147c601e2174c81e103f690ba5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dececd478b1ecdaeeb5dd696662c394ce39e2853")]
 [assembly: System.Reflection.AssemblyProductAttribute("xUnitMechDownloadCoreTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("xUnitMechDownloadCoreTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
